@@ -7,7 +7,8 @@
  🔭 I’m currently working on Web development
 - 🌱 I’m currently learning Web development
 - 👯 I’m looking to collaborate on Web development
-
+- 
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/sunder55-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunder55&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="sunder55" /> 
 <img width="52.5%%" src="https://github-readme-stats.vercel.app/api?username=sunder55&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="sunder55" />
