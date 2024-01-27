@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<table>
+<table border=1>
   <tr>
     <td valign="center">
       🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
