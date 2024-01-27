@@ -1,4 +1,5 @@
 ### Hi, I'm Rukmagat 👋
+[![GitHub Views](https://komarev.com/ghpvc/?username=sunder55&color=FAC151)][1]
 
 <!--
 **sunder55/sunder55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
