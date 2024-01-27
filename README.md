@@ -17,16 +17,23 @@ Here are some ideas to get you started:
 
 <table border=1>
   <tr>
-
+<td>
       🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+ </td>
         </tr>
         <tr>
+         <td>
       🌱 I am currently learning **Java** and also interested in **Web Development**.
+          </td>
       </tr>
       <tr>
+       <td>
       🎯 My Goal is to Contribute to as many **open source project** as possible.
+        </td>
       </tr>
       <tr>
+       <td>
       ✨ I love to create different types of **contents**.
+        </td>
       </tr>
   </table>
