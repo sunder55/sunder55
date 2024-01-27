@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning Web development
 - 👯 I’m looking to collaborate on Web development
 
-  ![GitHub Activity Graph](https://ghchart.rshah.org/sunder55.svg)
-![GitHub Activity Graph](https://cdn.hackernoon.com/images/sunder55.jpg)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunder55&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="sunder55" /> 
 <img width="52.5%%" src="https://github-readme-stats.vercel.app/api?username=sunder55&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="sunder55" />
