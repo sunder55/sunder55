@@ -14,3 +14,11 @@
 <img width="52.5%%" src="https://github-readme-stats.vercel.app/api?username=sunder55&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="sunder55" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sunder55&theme=highcontrast&hide_border=true" alt="sunder55" />
 </p>
+
+Some of the useful plugins:
+Query Monitor -> For checking database and php error
+Yoast SEO  -> For Search Engine Optimization
+Maintenance -> For maintenance mode.
+WP Metor -> For speed optimization.
+WP Rocket -> For better Performance.
+WP Rollback -> For rolling back to the pervious version of plugin.
