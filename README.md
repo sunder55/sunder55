@@ -15,6 +15,45 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sunder55&theme=highcontrast&hide_border=true" alt="sunder55" />
 </p>
 
+## Useful WordPress Plugins
+
+Here are some useful WordPress plugins to enhance functionality and performance:
+
+<table>
+  <thead>
+    <tr>
+      <th>Plugin</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Query Monitor</b></td>
+      <td>For checking database and PHP errors.</td>
+    </tr>
+    <tr>
+      <td><b>Yoast SEO</b></td>
+      <td>For Search Engine Optimization.</td>
+    </tr>
+    <tr>
+      <td><b>Maintenance</b></td>
+      <td>For enabling maintenance mode.</td>
+    </tr>
+    <tr>
+      <td><b>WP Meteor</b></td>
+      <td>For speed optimization.</td>
+    </tr>
+    <tr>
+      <td><b>WP Rocket</b></td>
+      <td>For better performance.</td>
+    </tr>
+    <tr>
+      <td><b>WP Rollback</b></td>
+      <td>For rolling back to the previous version of plugins.</td>
+    </tr>
+  </tbody>
+</table>
+
 Some of the useful plugins:
 Query Monitor -> For checking database and php error
 Yoast SEO  -> For Search Engine Optimization
