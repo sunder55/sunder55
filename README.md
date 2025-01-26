@@ -5,9 +5,9 @@
 **sunder55/sunder55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I’m currently working on web development, specializing in WordPress backend development.
-🌱 I’m currently enhancing my skills in custom WordPress development and exploring modern web technologies.
-👯 I’m looking to collaborate on WordPress and PHP-based projects or other exciting web development opportunities.
+- 🔭 I’m currently working on web development, specializing in WordPress backend development.
+- 🌱 I’m currently enhancing my skills in custom WordPress development and exploring modern web technologies.
+- 👯 I’m looking to collaborate on WordPress and PHP-based projects or other exciting web development opportunities.
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunder55&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="sunder55" /> 
