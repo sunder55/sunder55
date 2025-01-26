@@ -1,7 +1,5 @@
 ### Hi, I'm Rukmagat 👋
-![GitHub Views](https://komarev.com/ghpvc/?username=sunder55&color=FAC151)
 ![Profile Views](https://komarev.com/ghpvc/?username=sunder55&label=Profile%20Views&color=blueviolet&style=flat-square)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-🔢%20Dynamic-brightgreen?style=for-the-badge&logo=github)
 
 <!--
 **sunder55/sunder55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
