@@ -54,10 +54,4 @@ Here are some useful WordPress plugins to enhance functionality and performance:
   </tbody>
 </table>
 
-Some of the useful plugins:
-Query Monitor -> For checking database and php error
-Yoast SEO  -> For Search Engine Optimization
-Maintenance -> For maintenance mode.
-WP Metor -> For speed optimization.
-WP Rocket -> For better Performance.
-WP Rollback -> For rolling back to the pervious version of plugin.
+
