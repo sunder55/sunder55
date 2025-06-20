@@ -51,6 +51,10 @@ Here are some useful WordPress plugins to enhance functionality and performance:
       <td><b>WP Rollback</b></td>
       <td>For rolling back to the previous version of plugins.</td>
     </tr>
+      <tr>
+      <td><b>All-in-One WP Migration and Backup</b></td>
+      <td>Useful for migrating sites.</td>
+    </tr>
   </tbody>
 </table>
 
