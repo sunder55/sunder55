@@ -27,6 +27,10 @@ Here are some useful WordPress plugins to enhance functionality and performance:
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td><b>Wordfence</b></td>
+      <td>Security plugin.</td>
+    </tr>
     <tr>
       <td><b>Query Monitor</b></td>
       <td>For checking database and PHP errors.</td>
